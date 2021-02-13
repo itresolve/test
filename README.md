@@ -1,4 +1,4 @@
-**Please follow this HOW TO
+** Please follow this HOW TO
 
 * To install HTTP, run
 ```
