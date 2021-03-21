@@ -1,6 +1,8 @@
+---
 - hosts: all
   become: yes
   tasks:
+   # This is to Install and configure HTTP
    - name: Install http
      yum:
        name: httpd
