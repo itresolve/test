@@ -8,6 +8,7 @@
        name: httpd
        state: started
        
+    # Start HTTP Services   
    - name: Start HTTPD
      systemd:
        name: httpd
